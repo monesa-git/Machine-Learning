@@ -1,1 +1,7 @@
 # Machine-Learning
+
+This was a research-oriented  course. It deals with Machine Learning Models study with Statistical & other Analysis Techniques, ML Results Data Visual Representation, Perception, Cognition, The Analytical Processes, Critical Thinking, Data Transformations, Applications of Machine Learning, Reasoning, Principles of Interaction. ML give us chance to goals, what we are going through, where were we and where more likely we are heading to. However, this is a field, which is yet to be explored in a fashion for Graduate Studies that students can take positive advantages of utilizing Machine Learning. We have data, rather we now have Big Data and it is coming to us with a velocity, in terms of variety and veracity. To take leverage we must be able to attempt algorithms using Python or R to depict past, present and future using Predictive Analytics techniques (Supervised, Unsupervised, Semi-Supervised Learning). These techniques are the merger of Statistical, Mathematical, Economics, and Business Analytics Techniques.
+
+I have uploaded my paper on the study of Supervised Learning, Unsupervised Learing, Artificial Neural Network and Natural Language Processing.
+
+Since I did this course from Jan 2020 to May 2020, we decided on work on a project based on the corona dataset. Our Project was a brief analysis of the COVID-19 spread in the United States using Machine Learning algorithms. My team's presentation about the project and the paper we have written on it and the python files I have uploaded in this respository.
