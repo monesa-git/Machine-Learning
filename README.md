@@ -4,4 +4,4 @@ This was a research-oriented  course. It deals with Machine Learning Models stud
 
 I have uploaded my paper on the study of Supervised Learning, Unsupervised Learing, Artificial Neural Network and Natural Language Processing.
 
-Since I did this course from Jan 2020 to May 2020, we decided on work on a project based on the corona dataset. Our Project was a brief analysis of the COVID-19 spread in the United States using Machine Learning algorithms. My team's presentation about the project and the paper we have written on it and the python files I have uploaded in this respository.
+Since I did this course from Jan 2020 to May 2020, we decided on work on a project based on the corona dataset. Our Project was to briefly analysis the COVID-19 spread in the United States using Machine Learning algorithms. Please have a look at the dataset file and the presentation for more details. My team's presentation about the project and the paper we have written on it and the python files I have uploaded in this respository.
